@@ -15,7 +15,7 @@ const OutputContainer = styled('div')(({ theme }) => ({
 const CalculateBase = styled(Paper)(({ theme }) => ({
   padding: theme.spacing(2),
   marginTop: theme.spacing(4),
-  borderRadius: 15,
+  borderRadius: 25,
 }));
 
 function App() {
